@@ -10,17 +10,19 @@
 <p >
     <img src="https://img.shields.io/badge/-ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-E34F26?style=flat-square&logo=notion&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-windows-181717?style=flat-square&logo=windows&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-Notion-E34F26?style=flat-square&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-photoshop-E1572B6?style=flat-square&logo=adobe&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-yarn-6762a6?style=flat-square&logo=yarn&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/-HTML5-E1572B6?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-FA6400?style=flat-square&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-React-FA6400?style=flat-square&logo=react&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-typescipt-E1572B6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-typescipt-E1572B6?style=flat-square&logo=typescript&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/-Vercel-6762a6?style=flat-square&logo=vercel&logoColor=white"/>
-   <img src="https://img.shields.io/badge/-windows-181717?style=flat-square&logo=windows&logoColor=white"/>
-<!--  <img src="https://img.shields.io/badge/-windows-181717?style=flat-square&logo=photoshop&logoColor=white"/> -->
+    <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-strapi-23A9F2?style=flat-square&logo=strapi&logoColor=white"/>
 </p>
  
 
