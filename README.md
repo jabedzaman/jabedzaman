@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-typescipt-E1572B6?style=flat-square&logo=typescript&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/-Vercel-6762a6?style=flat-square&logo=vercel&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-strapi-23A9F2?style=flat-square&logo=strapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-strapi-23A9F2?style=flat-square&logo=strapi&logoColor=white"/></br>
     <img src="https://img.shields.io/badge/-ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-windows-181717?style=flat-square&logo=windows&logoColor=white"/><br/>
