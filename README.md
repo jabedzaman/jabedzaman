@@ -20,9 +20,9 @@
     <img src="https://img.shields.io/badge/-ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-windows-181717?style=flat-square&logo=windows&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Notion-E34F26?style=flat-square&logo=notion&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/-Notion-E34F26?style=flat-square&logo=notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-photoshop-E1572B6?style=flat-square&logo=adobe&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-yarn-6762a6?style=flat-square&logo=yarn&logoColor=white"/></br>
+    <img src="https://img.shields.io/badge/-yarn-6762a6?style=flat-square&logo=yarn&logoColor=white"/></br> -->
  </p>
  
 
