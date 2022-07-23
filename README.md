@@ -23,8 +23,8 @@
 
 <p>
  My Socials:<br><br>
- <a href="https://instagram.com/rysxense"><img src="https://img.shields.io/badge/instagram-1572B6?style=flat-square&logo=instagram&logoColor=white"/></a>
- <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-1572B6?style=flat-square&logo=instagram&logoColor=white"/></a>
+ <a href="https://instagram.com/rysxense"><img src="https://img.shields.io/badge/instagram-1572B1?style=flat-square&logo=instagram&logoColor=white"/></a>
+ <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-1572B6?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
 
 ## My Github Stats:
