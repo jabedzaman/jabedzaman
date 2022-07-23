@@ -1,10 +1,5 @@
 ## Hey I m Xense :)
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thexense&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexense&exclude_repo=github-readme-stats,thexense.github.io" />
-</p>
-
 ### My skills:
 
 <p >
@@ -30,3 +25,19 @@
  feel free to dm me on instagram for any queries: <br><br>
  <a href="https://instagram.com/rysxense"><img src="https://img.shields.io/badge/instagram-1572B6?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
+
+## My Github Stats:
+
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/thexense"><img alt="xense's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thexense&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/thexense"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thexense&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/thexense"><img alt="xense's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexense&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
