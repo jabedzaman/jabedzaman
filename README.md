@@ -22,24 +22,19 @@
 -->
 <table>
   <tr>
-    <td>
-       <a href="https://github.com/xenseee"><img alt="xense's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xenseee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-    <b> My socials </b>
-    <br/>
-    <a href="https://instagram.com/xenseeee"><img src="https://img.shields.io/badge/instagram-1572B1?style=flat-square&logo=instagram&logoColor=white"/></a>
-    <br/>
-    <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-1572B6?style=flat-square&logo=twitter&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-<table>
-    <td>
+     <td>
        <a href="http://www.github.com/xenseee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xenseee&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
       <a href="https://github.com/xenseee"><img alt="xense's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xenseee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+    
+  </tr>
+</table>
+<table>
+   <tr>
+    <td>
+       <a href="https://github.com/xenseee"><img alt="xense's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xenseee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
   </tr>
 </table>
