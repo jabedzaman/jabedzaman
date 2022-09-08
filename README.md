@@ -25,10 +25,24 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 
 # 📊 GitHub Stats:
+
+<table>
+<tr>
+<th>
+
 ![](https://github-readme-stats.vercel.app/api?username=xenseee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+</th>
+<th>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xenseee&theme=dark&hide_border=false)
+
+</th>
+<th>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xenseee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</th>
 
 [![](https://visitcount.itsvg.in/api?id=xenseee&icon=0&color=0)](https://visitcount.itsvg.in)
 
