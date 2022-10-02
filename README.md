@@ -2,7 +2,7 @@
 🔭 I’m currently (1st year) pursuing my Bachelors degree (B.Tech CSE)<br>
 🌱 I’m currently learning native development<br>
 💬 Feel free ask me anything<br>
-⚡ Fun fact I have a good sense of humor
+⚡ Fun fact I have a good sense of humour
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xenseeee) 
@@ -26,25 +26,14 @@
 
 # 📊 GitHub Stats:
 
-<table>
-<tr>
-<th>
-
 ![](https://github-readme-stats.vercel.app/api?username=xenseee&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-</th>
-<th>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xenseee&theme=dark&hide_border=false)
 
-</th>
-<th>
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xenseee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</th>
-</tr>
-</table>
 
 [![](https://visitcount.itsvg.in/api?id=xenseee&icon=0&color=0)](https://visitcount.itsvg.in)
 
