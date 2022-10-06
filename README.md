@@ -73,3 +73,12 @@
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xenseee)  
   
 [![](https://visitcount.itsvg.in/api?id=jabedzaman&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+  <!--START_SECTION:waka-->
+
+```text
+
+```
+
+<!--END_SECTION:waka-->
