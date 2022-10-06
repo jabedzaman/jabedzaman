@@ -43,4 +43,4 @@
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/xenseee)  
   
   ## Some of my projects 🧪
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jabedzaman&repo=portfolio-blogs)](https://github.com/jabedzaman/potfolio-blog)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jabedzaman&repo=portfolio-blog)](https://github.com/jabedzaman/portfolio-blog)
