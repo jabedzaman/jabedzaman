@@ -27,7 +27,7 @@
 </br>
 
 ### 🚀 About Me:
-⚡ 18 y.o. self taught developer<br>
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave"/> 18 y.o. self taught developer<br>
 🔭 Currently pursuing my Bachelors degree (B.Tech CSE)<br>
 🌱 Also currently learning native android development<br><br>
 
