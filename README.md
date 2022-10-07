@@ -27,7 +27,7 @@
 </br>
 
 ### 🚀 About Me:
-⚡ My name is Jabed Zaman. 18 y.o. self taught developer<br>
+⚡ 18 y.o. self taught developer<br>
 🔭 Currently pursuing my Bachelors degree (B.Tech CSE)<br>
 🌱 Also currently learning native android development<br><br>
 
