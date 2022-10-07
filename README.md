@@ -39,4 +39,14 @@
 [![](https://visitcount.itsvg.in/api?id=jabedzaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   1 hr 2 mins     ████████████████▒░░░░░░░░   65.36 %
+YAML         14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
+JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Java         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+```
+
 <!--END_SECTION:waka-->
