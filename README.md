@@ -38,7 +38,6 @@
 [![](https://visitcount.itsvg.in/api?id=jabedzaman&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
 
-[![@jabedzaman's Holopin board](https://holopin.me/jabedzaman)](https://holopin.io/@jabedzaman)
 
 <!--START_SECTION:waka-->
 
@@ -52,3 +51,5 @@ HTML         35 mins         >------------------------   02.98 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![@jabedzaman's Holopin board](https://holopin.me/jabedzaman)](https://holopin.io/@jabedzaman)
