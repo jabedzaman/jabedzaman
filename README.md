@@ -42,12 +42,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 4 mins    >>>>>>>------------------   26.03 %
-TypeScript       7 hrs 3 mins    >>>>>>-------------------   25.98 %
-Python           4 hrs 21 mins   >>>>---------------------   16.02 %
-HTML             3 hrs 37 mins   >>>----------------------   13.34 %
-Markdown         2 hrs 16 mins   >>-----------------------   08.40 %
-Properties       43 mins         >------------------------   02.69 %
+JavaScript   16 hrs          >>>>>>>>>>>>>------------   52.08 %
+HTML         3 hrs 38 mins   >>>----------------------   11.82 %
+TypeScript   3 hrs 23 mins   >>>----------------------   11.04 %
+Python       2 hrs 35 mins   >>-----------------------   08.43 %
+Markdown     1 hr 45 mins    >------------------------   05.73 %
+MDX          49 mins         >------------------------   02.67 %
 ```
 
 <!--END_SECTION:waka-->
