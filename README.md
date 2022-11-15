@@ -33,9 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   19 hrs 22 mins  >>>>>>>>>>>>>>>>>>-------   72.91 %
-MDX          2 hrs           >>-----------------------   07.56 %
-Other        1 hr 52 mins    >>-----------------------   07.07 %
+JavaScript   16 hrs 12 mins  >>>>>>>>>>>>>>>>>--------   67.82 %
+JSON         2 hrs 27 mins   >>>----------------------   10.27 %
+Other        1 hr 54 mins    >>-----------------------   07.99 %
 ```
 
 <!--END_SECTION:waka-->
