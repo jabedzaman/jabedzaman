@@ -28,7 +28,8 @@
   <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-E4405F.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jabedzaman"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-</br>
+
+
 ### 🚀 About Me:
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave"/> 18 y.o. self taught developer<br>
 🪴 An engineering student <br/>
