@@ -1,21 +1,25 @@
 <p>
   <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=jabedzaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <p >  
-    <img src="https://img.shields.io/badge/-React-FA6400?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-tailwindcss-EC4D37?style=flat-square&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Next-42B883?style=flat-square&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-5e8d5a?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <!-- <img src="https://img.shields.io/badge/-Manjaro-34BE5B?style=flat-square&logo=Manjaro&logoColor=white"/> -->
-    <img src="https://img.shields.io/badge/-ubuntu-A80030?style=flat-square&logo=Ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Javascript-336791?style=flat-square&logo=Javascript&logoColor=white"/>
-    <!--<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>-->
-    <img src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<!--     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> -->
+    <br/>
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/><br/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/><br/>
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   </p>
 </p>
 <p>
