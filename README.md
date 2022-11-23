@@ -28,8 +28,8 @@
 
 ### 🚀 About Me:
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave"/> 18 y.o. self taught developer<br>
-🪴 An engineering student
-💀 Fun Fact: On Sat Nov 5th 2022 I had a with 12 hrs of coding activity.
+🪴 An engineering student <br/>
+💀 Fun Fact: On Sat Nov 5th 2022 I had 12 hrs of non-stop coding session.
 
 ### ✨ My wakatime stats 
 
