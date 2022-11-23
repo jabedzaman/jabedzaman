@@ -28,7 +28,10 @@
 
 ### 🚀 About Me:
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave"/> 18 y.o. self taught developer<br>
+🪴 An engineering student
+💀 Fun Fact: On Sat Nov 5th 2022 I had a with 12 hrs of coding activity.
 
+### ✨ My wakatime stats 
 
 <!--START_SECTION:waka-->
 
@@ -43,4 +46,5 @@ JSON         26 mins         >------------------------   02.80 %
 
 <!--END_SECTION:waka-->
 
+### 🎖 My Badges
 [![@jabedzaman's Holopin board](https://holopin.me/jabedzaman)](https://holopin.io/@jabedzaman)
