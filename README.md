@@ -38,6 +38,11 @@
 
 ### ✨ My wakatime stats 
 
+- My Wakatime starts starting from 6th Oct 2022: <br/>
+[![wakatime](https://wakatime.com/badge/user/ae80c081-652e-481c-b6ff-94abb0ddefa7.svg)](https://wakatime.com/@ae80c081-652e-481c-b6ff-94abb0ddefa7)
+
+- My Wakatime stats for last 7 days:
+ 
 <!--START_SECTION:waka-->
 
 ```text
