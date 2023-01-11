@@ -55,6 +55,6 @@ Other        3 mins          -------------------------   00.29 %
 ```
 
 <!--END_SECTION:waka-->
-
+<!-- 
 ### 🎖 My Badges
-[![@jabedzaman's Holopin board](https://holopin.me/jabedzaman)](https://holopin.io/@jabedzaman)
+[![@jabedzaman's Holopin board](https://holopin.me/jabedzaman)](https://holopin.io/@jabedzaman) -->
