@@ -23,12 +23,12 @@
    <!-- <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> -->
   </p>
 </p>
-<p>
+<!-- <p>
   📣 Connect With Me :<br/>
   <a href="mailto:jabedzaman2004@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Jabed%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-E4405F.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jabedzaman"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+</p> -->
 
 
 ### 🚀 About Me:
