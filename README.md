@@ -36,12 +36,12 @@
 🪴 An engineering student <br/>
 💀 Fun Fact: On Sat Nov 5th 2022 I had 12 hrs of non-stop coding session.
 
-### ✨ My wakatime stats 
+### ✨ My wakatime stats (last 7 days)
 
-- My Wakatime starts starting from 6th Oct 2022: <br/>
-[![wakatime](https://wakatime.com/badge/user/ae80c081-652e-481c-b6ff-94abb0ddefa7.svg)](https://wakatime.com/@ae80c081-652e-481c-b6ff-94abb0ddefa7)
+<!-- - My Wakatime starts starting from 6th Oct 2022: <br/> -->
+<!-- [![wakatime](https://wakatime.com/badge/user/ae80c081-652e-481c-b6ff-94abb0ddefa7.svg)](https://wakatime.com/@ae80c081-652e-481c-b6ff-94abb0ddefa7) -->
 
-- My Wakatime stats for last 7 days:
+<!-- - My Wakatime stats for (last 7 days): -->
  
 <!--START_SECTION:waka-->
 
