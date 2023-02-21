@@ -34,7 +34,7 @@
 ### 🚀 About Me:
 <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" alt="wave"/> 18 y.o. self taught developer<br>
 🪴 Learning Rust <br/>
-🎯 Proficient in full stack development
+🎯 Crafting full-stack magic for web & mobile.
 <!-- 💀 Fun Fact: On Sat Nov 5th 2022 I had 12 hrs of non-stop coding session. -->
 
 ### ✨ My wakatime stats (last 7 days)
