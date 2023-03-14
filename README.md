@@ -4,7 +4,7 @@
     <h3>🚀 About Me:</h3>
     👋🏽 18 y.o. self taught developer<br>
     🪴 Learning Rust <br/>
-    🎯 Crafting full-stack magic for web & mobile. <br/><br/><br/>
+    🎯 Crafting full-stack magic for web & mobile. <br/><br/><br/><br/><br/>
   </p>
 </p>
 
