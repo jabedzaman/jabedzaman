@@ -4,7 +4,10 @@
     <h3>🚀 About Me:</h3>
     👋🏽 18 y.o. self taught developer<br>
     🪴 Learning Rust <br/>
-    🎯 Crafting full-stack magic for web & mobile. <br/><br/><br/><br/><br/>
+    🎯 Crafting full-stack magic for web & mobile. 
+    <br/> <br/> <a href="mailto:jabedzaman2004@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Jabed%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-E4405F.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jabedzaman"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <br/>
   </p>
 </p>
 
@@ -84,11 +87,10 @@ YAML         40 mins         >------------------------   02.78 %
 ---
 
 <details>
-<summary>Wanna know more!?</summary>
+<summary>Wanna see more!?</summary>
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jabedzaman/jabedzaman/main/rick-astley-dancing.gif" width="540" height="405" />
-<p> Check out [jabed.me](https://jabed.me) for more...
 </p>
 <!--
 I am a full stack web/app developer and use technologies like react, nodejs, tailwind, firebase, appwrite, react native to build full stack web apps and android applications. In addition to it I am a Linux enthusiast. Being curious about technology gives me the banger to get into coding and development. I enjoy doing this and keep trying to polish myself with the bleding tech stack in the market. <br/> 
