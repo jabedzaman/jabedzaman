@@ -11,9 +11,38 @@
   </p>
 </p>
 
+#
+<!-- 
+### 📣 Connect With Me :
+  <a href="mailto:jabedzaman2004@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Jabed%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-E4405F.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jabedzaman"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+# -->
+
+### ✨ My wakatime stats (last 7 days)
+ 
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   16 hrs 50 mins  >>>>>>>>>>>>>>-----------   57.22 %
+JSON         4 hrs 1 min     >>>----------------------   13.64 %
+JavaScript   2 hrs 25 mins   >>-----------------------   08.21 %
+Astro        1 hr 26 mins    >------------------------   04.91 %
+Markdown     1 hr 22 mins    >------------------------   04.65 %
+C            1 hr 14 mins    >------------------------   04.19 %
+```
+
+<!--END_SECTION:waka-->
+
 ---
 
-### 🧰 Skills and tools
+<details>
+<summary>Wanna know more!?</summary>
+<br>
+I am a full stack web/app developer and use technologies like react, nodejs, tailwind, firebase, appwrite, react native to build full stack web apps and android applications. In addition to it I am a Linux enthusiast. Being curious about technology gives me the banger to get into coding and development. I enjoy doing this and keep trying to polish myself with the bleding tech stack in the market. <br/> 
+Also I use arch BTW
+    <h3>🧰 Skills and tools</h3>
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -58,42 +87,9 @@
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-
-#
-
-<!-- 
-### 📣 Connect With Me :
-  <a href="mailto:jabedzaman2004@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Jabed%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://twitter.com/xenseee"><img src="https://img.shields.io/badge/twitter-E4405F.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jabedzaman"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
-# -->
-
-### ✨ My wakatime stats (last 7 days)
- 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   16 hrs 50 mins  >>>>>>>>>>>>>>-----------   57.22 %
-JSON         4 hrs 1 min     >>>----------------------   13.64 %
-JavaScript   2 hrs 25 mins   >>-----------------------   08.21 %
-Astro        1 hr 26 mins    >------------------------   04.91 %
-Markdown     1 hr 22 mins    >------------------------   04.65 %
-C            1 hr 14 mins    >------------------------   04.19 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
-<details>
-<summary>Wanna see more!?</summary>
-<br>
+<br/>
+<h2 align="center">Hope you have a great day ^_^ </h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jabedzaman/jabedzaman/main/rick-astley-dancing.gif" width="540" height="405" />
 </p>
-<!--
-I am a full stack web/app developer and use technologies like react, nodejs, tailwind, firebase, appwrite, react native to build full stack web apps and android applications. In addition to it I am a Linux enthusiast. Being curious about technology gives me the banger to get into coding and development. I enjoy doing this and keep trying to polish myself with the bleding tech stack in the market. <br/> 
-Also I use arch BTW
--->
 </details>
