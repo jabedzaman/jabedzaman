@@ -1,5 +1,5 @@
 <p>
-    <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=jabedzaman&theme=light&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=jabedzaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <p>  
     <h3>🚀 About Me:</h3>
     👋🏽 18 y.o. self taught developer<br>
