@@ -1,4 +1,6 @@
-<p>
+<samp> 👋 Self taught Full Stack Developer</samp>
+
+<!-- <p>
     <img align="left" width="430" height="190" src="https://github-readme-stats.vercel.app/api?username=jabedzaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <p>  
     <h3>🚀 About Me:</h3>
@@ -9,7 +11,7 @@
   <a href="https://linkedin.com/in/jabedzaman"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <br/>
   </p>
-</p>
+</p> -->
 
 #
 <!-- 
@@ -20,7 +22,12 @@
  
 # -->
 
-### ✨ My wakatime stats (last 7 days)
+
+<details>
+<summary>Wanna know more!?</summary>
+<br>
+
+### My wakatime stats (last 7 days)
  
 <!--START_SECTION:waka-->
 
@@ -37,12 +44,8 @@ Bash             1 hr 22 mins    >>-----------------------   08.31 %
 
 ---
 
-<details>
-<summary>Wanna know more!?</summary>
-<br>
-I am a full stack web/app developer and use technologies like react, nodejs, tailwind, firebase, appwrite, react native to build full stack web apps and android applications. In addition to it I am a Linux enthusiast. Being curious about technology gives me the banger to get into coding and development. I enjoy doing this and keep trying to polish myself with the bleding tech stack in the market. <br/> 
-Also I use arch BTW
-    <h3>🧰 Skills and tools</h3>
+
+<h3>🧰 Skills and tools</h3>
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -87,9 +90,11 @@ Also I use arch BTW
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-<br/>
-<h2 align="center">Hope you have a great day ^_^ </h2>
+    
+----
+    
+<!-- <br/>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jabedzaman/jabedzaman/main/rick-astley-dancing.gif" width="540" height="405" />
-</p>
+</p> -->
 </details>
