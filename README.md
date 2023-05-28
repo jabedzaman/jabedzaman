@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 1 min     >>>>>>>>>>>--------------   43.91 %
-YAML         2 hrs 40 mins   >>>----------------------   13.02 %
-JavaScript   2 hrs 32 mins   >>>----------------------   12.37 %
-Docker       1 hr 13 mins    >------------------------   05.97 %
-Bash         1 hr 1 min      >------------------------   05.02 %
+TypeScript   8 hrs 53 mins   >>>>>>>>>>---------------   40.87 %
+Other        2 hrs 39 mins   >>>----------------------   12.25 %
+YAML         2 hrs 31 mins   >>>----------------------   11.65 %
+JavaScript   2 hrs 3 mins    >>-----------------------   09.50 %
+Bash         1 hr 6 mins     >------------------------   05.10 %
 ```
 
 <!--END_SECTION:waka-->
