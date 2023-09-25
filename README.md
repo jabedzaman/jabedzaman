@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     7 hrs 26 mins   >>>>>>>>>>>>>>>>>>>>-----   80.26 %
-ActionScript   31 mins         >------------------------   05.62 %
-Objective-C    22 mins         >------------------------   04.07 %
-Lua            13 mins         >------------------------   02.49 %
-TSConfig       6 mins          -------------------------   01.18 %
+TypeScript     7 hrs 59 mins   >>>>>>>>>>>>>>>>>>>------   76.15 %
+Markdown       50 mins         >>-----------------------   07.99 %
+ActionScript   31 mins         >------------------------   04.96 %
+Objective-C    22 mins         >------------------------   03.59 %
+YAML           8 mins          -------------------------   01.42 %
 ```
 
 <!--END_SECTION:waka-->
