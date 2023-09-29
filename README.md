@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        6 hrs 10 mins   >>>>>>>>>>>--------------   45.17 %
-GDScript3         2 hrs 5 mins    >>>>---------------------   15.32 %
-Lua               1 hr 36 mins    >>>----------------------   11.79 %
-Markdown          50 mins         >>-----------------------   06.20 %
-Objective-C       46 mins         >------------------------   05.67 %
+TypeScript        6 hrs 2 mins    >>>>>>>>>>>>-------------   46.47 %
+GDScript3         2 hrs 5 mins    >>>>---------------------   16.14 %
+Lua               1 hr 36 mins    >>>----------------------   12.38 %
+Markdown          50 mins         >>-----------------------   06.51 %
+Objective-C       23 mins         >------------------------   03.07 %
 ```
 
 <!--END_SECTION:waka-->
