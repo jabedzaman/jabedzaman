@@ -20,7 +20,7 @@ JSON         41 mins         >------------------------   03.46 %
 
 ---
 
-<h3> Some of the tools I usually use to build stuffs</h3>
+<h3> Some of the tools I usually use</h3>
  <p align="left">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="100" height="100" alt="TypeScript" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="100" height="100" alt="JavaScript" /></a>
