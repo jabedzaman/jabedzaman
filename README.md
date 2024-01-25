@@ -1,10 +1,10 @@
-<samp> Self taught Full Stack Developer</samp>
+<!-- <samp> Self taught Full Stack Developer</samp> -->
 
 <details>
-<summary>Wanna know more!?</summary>
+<summary><samp>Wanna know more!?</samp></summary>
 <br>
 
-### My wakatime stats (last 7 days)
+<h3>My wakatime stats (last 7 days)</h3> 
 
 <!--START_SECTION:waka-->
 
@@ -18,7 +18,7 @@ XML               25 mins         -------------------------   01.42 %
 
 <!--END_SECTION:waka-->
 
----
+#
 
 <h3> Some of the tools I usually use</h3>
  <p align="left">
