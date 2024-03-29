@@ -1,5 +1,5 @@
 <details>
-<summary><samp>Pookie <a href="https://jabed.dev">jabed.dev</a></samp></summary>
+<summary><samp>Look more at <a href="https://jabed.dev">jabed.dev</a></samp></summary>
 <br>
 
 <h3>My wakatime stats (last 7 days)</h3>
