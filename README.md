@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        14 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>----   84.46 %
-JavaScript        1 hr 9 mins     >>-----------------------   06.54 %
-Other             20 mins         -------------------------   01.95 %
-Lua               17 mins         -------------------------   01.62 %
-Java Properties   12 mins         -------------------------   01.21 %
+TypeScript        10 hrs 40 mins  >>>>>>>>>>>>>>>>>>>------   74.58 %
+JavaScript        1 hr 11 mins    >>-----------------------   08.27 %
+Groovy            47 mins         >------------------------   05.55 %
+JSON              28 mins         >------------------------   03.34 %
+Java Properties   12 mins         -------------------------   01.49 %
 ```
 
 <!--END_SECTION:waka-->
