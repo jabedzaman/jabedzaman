@@ -1,4 +1,6 @@
 
+<b>Waka Stats (7 days)</b>
+
 <!--START_SECTION:waka-->
 
 ```txt
