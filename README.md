@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        49 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>-----   79.59 %
-JSON              2 hrs 8 mins    >------------------------   03.42 %
-JavaScript        1 hr 56 mins    >------------------------   03.12 %
-Docker            1 hr 28 mins    >------------------------   02.37 %
-Prisma            1 hr 4 mins     -------------------------   01.72 %
+TypeScript        52 hrs 10 mins  >>>>>>>>>>>>>>>>>>>>>----   82.03 %
+JSON              1 hr 46 mins    >------------------------   02.79 %
+JavaScript        1 hr 38 mins    >------------------------   02.57 %
+Docker            1 hr 28 mins    >------------------------   02.33 %
+Prisma            1 hr 17 mins    >------------------------   02.02 %
 ```
 
 <!--END_SECTION:waka-->
