@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    69 hrs 12 mins  >>>>>>>>>>>>>>>>>>>------   76.44 %
-TSConfig      3 hrs 57 mins   >------------------------   04.38 %
-Other         3 hrs 44 mins   >------------------------   04.14 %
-JavaScript    3 hrs 5 mins    >------------------------   03.41 %
-Groovy        2 hrs 47 mins   >------------------------   03.08 %
+TypeScript    63 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>-----   78.39 %
+TSConfig      3 hrs 57 mins   >------------------------   04.90 %
+Other         3 hrs 39 mins   >------------------------   04.53 %
+JavaScript    2 hrs 13 mins   >------------------------   02.75 %
+YAML          2 hrs 12 mins   >------------------------   02.74 %
 ```
 
 <!--END_SECTION:waka-->
