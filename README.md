@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript      60 hrs 16 mins  >>>>>>>>>>>>>>>>>>>------   75.27 %
-Markdown        4 hrs 11 mins   >------------------------   05.23 %
-Other           3 hrs 58 mins   >------------------------   04.97 %
-TSConfig        2 hrs 53 mins   >------------------------   03.61 %
-YAML            2 hrs 22 mins   >------------------------   02.96 %
+TypeScript      49 hrs 22 mins  >>>>>>>>>>>>>>>>>>>------   77.02 %
+Markdown        4 hrs 11 mins   >>-----------------------   06.53 %
+Other           3 hrs 36 mins   >------------------------   05.62 %
+YAML            2 hrs 3 mins    >------------------------   03.22 %
+Bash            1 hr 35 mins    >------------------------   02.47 %
 ```
 
 <!--END_SECTION:waka-->
