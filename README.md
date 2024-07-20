@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        33 hrs 28 mins  >>>>>>>>>>>>>>>>>>>------   74.49 %
-Markdown          4 hrs 5 mins    >>-----------------------   09.11 %
-Java Properties   2 hrs 2 mins    >------------------------   04.55 %
-Other             1 hr 23 mins    >------------------------   03.10 %
-JSON              1 hr 2 mins     >------------------------   02.33 %
+TypeScript        44 hrs 25 mins  >>>>>>>>>>>>>>>>>>>------   77.67 %
+Markdown          4 hrs 5 mins    >>-----------------------   07.16 %
+Java Properties   2 hrs 6 mins    >------------------------   03.68 %
+Other             1 hr 30 mins    >------------------------   02.63 %
+JSON              1 hr 4 mins     -------------------------   01.87 %
 ```
 
 <!--END_SECTION:waka-->
