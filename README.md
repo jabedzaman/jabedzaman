@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        47 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>-----   79.69 %
-JavaScript        3 hrs           >------------------------   05.07 %
-Vue.js            2 hrs 13 mins   >------------------------   03.76 %
-Java Properties   2 hrs 6 mins    >------------------------   03.55 %
-JSON              1 hr 3 mins     -------------------------   01.78 %
+TypeScript        40 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>-----   78.02 %
+JavaScript        3 hrs           >------------------------   05.75 %
+Vue.js            2 hrs 13 mins   >------------------------   04.26 %
+Java Properties   2 hrs 6 mins    >------------------------   04.03 %
+Bash              51 mins         -------------------------   01.64 %
 ```
 
 <!--END_SECTION:waka-->
