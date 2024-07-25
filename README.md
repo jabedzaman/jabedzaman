@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        41 hrs 37 mins  >>>>>>>>>>>>>>>>>>>------   76.09 %
-JavaScript        2 hrs 53 mins   >------------------------   05.28 %
-Prisma            2 hrs 17 mins   >------------------------   04.18 %
-Vue.js            2 hrs 13 mins   >------------------------   04.07 %
-Java Properties   2 hrs 6 mins    >------------------------   03.84 %
+TypeScript        51 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>-----   79.20 %
+Prisma            4 hrs 2 mins    >>-----------------------   06.27 %
+JavaScript        3 hrs 34 mins   >------------------------   05.54 %
+Vue.js            2 hrs 13 mins   >------------------------   03.45 %
+Nix               1 hr 5 mins     -------------------------   01.70 %
 ```
 
 <!--END_SECTION:waka-->
